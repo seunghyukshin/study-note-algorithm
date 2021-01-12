@@ -1,19 +1,17 @@
-# study-note-algorithm
-풀었던 문제 다시 풀어보기 / 못 푼 문제 답 외우기
-
-
-
+# 알고리즘 공부
 
 
 ### Failed Problem
 
-#### DP
-
 ------
 
-[9282.초콜릿과 건포도](https://github.com/seunghyukshin/study-note-algorithm/blob/master/swexpert/9282.%20%EC%B4%88%EC%BD%9C%EB%A6%BF%EA%B3%BC%20%EA%B1%B4%ED%8F%AC%EB%8F%84/Solution_D4_9282_%EC%B4%88%EC%BD%9C%EB%A6%BF%EA%B3%BC%EA%B1%B4%ED%8F%AC%EB%8F%84_%ED%92%80%EC%9D%B42.java)
-
-1208.지희의 고장난 계산기
+틀린문제 답 외우기 & 10번풀기​ :pen:
 
 
+
+|                             문항                             |   1회    | 2회  | 3회  | 4회  | 5회  | 6회  | 7회  | 8회  | 9회  | 10회 |
+| :----------------------------------------------------------: | :------: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| [9282.초콜릿과 건포도](https://github.com/seunghyukshin/study-note-algorithm/tree/master/swexpert/9282.%20%EC%B4%88%EC%BD%9C%EB%A6%BF%EA%B3%BC%20%EA%B1%B4%ED%8F%AC%EB%8F%84) | 21.01.11 |      |      |      |      |      |      |      |      |      |
+| [1808.지희의 고장난 계산기](https://github.com/seunghyukshin/study-note-algorithm/tree/master/swexpert/1808.%20%EC%A7%80%ED%9D%AC%EC%9D%98%20%EA%B3%A0%EC%9E%A5%EB%82%9C%20%EA%B3%84%EC%82%B0%EA%B8%B0) | 21.01.12 |      |      |      |      |      |      |      |      |      |
+|                                                              |          |      |      |      |      |      |      |      |      |      |
 
