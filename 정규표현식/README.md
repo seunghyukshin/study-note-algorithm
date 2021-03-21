@@ -1,8 +1,8 @@
 # Regulation Expression
 
-[연습사이트1](regexr.com/5mhou)
+[연습사이트](https://regexr.com/5mhou)
 
-[연습사이트2](regexone.com)
+[퀴즈사이트](https://regexone.com)
 
 ------
 
@@ -174,7 +174,7 @@ Ya는 Ya로 시작하면서 Ya로 끝나는 문자이기 때문에 매칭되지 
 
 
 
-##### $ : 문장의 시작 단어 
+##### $ : 문장의 끝 단어 
 
 ````
 Ya$
