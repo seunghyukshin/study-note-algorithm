@@ -3,7 +3,9 @@
 1. 전화번호 찾기
 
 010-898-0893
+
 010 898 0893
+
 010.898.0893
 
 ######  
@@ -25,6 +27,8 @@
 ````re
 \d{2,3}[- .]\d{3}[- .]\d{4}
 ````
+
+
 
 
 
@@ -54,10 +58,14 @@ hello@daum.co.kr
 
 
 
+
+
 3. youtube주소에서 아이디값 찾기
 
 https://www.youtu.be/-ZClicWm0zM
+
 https://youtu.be/-ZClicWm0zM
+
 youtu.be/-ZClicWm0zM
 
 
