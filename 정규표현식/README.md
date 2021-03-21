@@ -16,7 +16,7 @@
 (Hi|Hello)|(And)
 ````
 
-Hi, Hello, And
+=> Hi, Hello, And
 
 
 
@@ -24,15 +24,11 @@ Hi, Hello, And
 gr(e|a)y
 ````
 
-gray, grey
+=> gray, grey
 
 
 
-찾지만 기억하지 않음 (그룹넘버 안새김)
-
-````
-(?:)
-````
+##### (?:) : 찾지만 기억하지 않음 (그룹넘버 안새김)
 
 
 
@@ -65,6 +61,8 @@ gr[a-f]y
 ````
 
 #### 
+
+------
 
 
 
@@ -130,6 +128,8 @@ graaay, graaaay, graaaay, graaaaay
 
 
 
+------
+
 
 
 #### 단어경계
@@ -183,6 +183,8 @@ Ya$
 Ya ya YaYaYa **Ya**  
 
 
+
+------
 
 
 
