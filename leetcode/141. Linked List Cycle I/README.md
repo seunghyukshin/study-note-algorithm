@@ -1,21 +1,12 @@
-# [a, b, c] => a^2 + b^2 + c^2
+# How to prove mathmatically
+
+**This article is extracted from mingjun's reply**
+
+https://leetcode.com/problems/linked-list-cycle/discuss/44669/Fully-Explained!-why-fast-and-slow-can-meet-in-the-cycle
 
 
 
-##### before
+플로이드의 토끼와 거북이 알고리즘
 
-```ja
-.map((v) => Math.pow(v, 2))
-.reduce((a, b) => a + b);
-```
-
-배열 한번 순회하면서 제곱으로 바꿔주고, 다시 순회하면서 더해주고
-
-
-
-##### after
-
-```javascript
-.reduce((a, b) => a + Math.pow(b, 2), 0);
-```
+https://fierycoding.tistory.com/45
 
