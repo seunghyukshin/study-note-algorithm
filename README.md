@@ -17,4 +17,5 @@
 | [15. 3Sum](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/15.%203Sum) |       [leetcode](https://leetcode.com/problems/3sum/)        | 21.02.11 | 21.07.07 |
 | [322. Coin Change](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/322.%20Coin%20Change) |    [leetcode](https://leetcode.com/problems/coin-change/)    | 21.03.15 | 21.07.07 |
 | [115. Distinct Subsequences](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/115.%20Distinct%20Subsequences) | [leetcode](https://leetcode.com/problems/distinct-subsequences/) | 21.03.17 | 21.07.07 |
+| [84. Largest Rectangle in Histogram](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/84.%20Largest%20Rectangle%20in%20Histogram) | [leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 21.06.23 | 22.01.29 |
 
