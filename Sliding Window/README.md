@@ -37,6 +37,6 @@ for (int i = 0; i < N; i++) {
 #### 관련 문제
 
 - [LeetCode 239. Sliding Window Maximum](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/239.%20Sliding%20Window%20Maximum)
-
 - [LeetCode 862. Shortest Subarray with Sum at Least K](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K)
+- [LeetCode 84. Largest Rectangle in Histogram](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/84.%20Largest%20Rectangle%20in%20Histogram)
 
