@@ -18,14 +18,14 @@ heights = [2, 1, 5, 6, 2, 3]
 
 **Stack**
 
-O(NlogN)
+~~O(NlogN)~~
 
 오름차순 컨셉
 
 스택의 가장 위의 값보다 작은 값이 들어오려한다?
 그러면 이 값보다 큰 값들 계속 pop해서 면적값 구해준다.
 
-
+###### Java
 
 ```java
 public int largestRectangleArea(int[] heights) {
@@ -47,4 +47,36 @@ public int largestRectangleArea(int[] heights) {
 
 
 
-O(N) 코드는 아..직
+~~O(N) 코드는 아..직~~
+
+O(N)이다. 
+
+###### Javascript
+
+```javascript
+/**
+ * @param {number[]} heights
+ * @return {number}
+ */
+const largestRectangleArea = function (heights) {
+  let answer = 0;
+
+  const deque = [];
+  heights.push(0);
+  const n = heights.length;
+  for (let i = 0; i < n; i++) {
+    while (deque.length !== 0 && heights[peek(deque)] > heights[i]) {
+      const h = heights[deque.pop()];
+      let len = deque.length === 0 ? i : i - peek(deque) - 1;
+      answer = Math.max(answer, h * len);
+    }
+    deque.push(i);
+  }
+  return answer;
+};
+
+const peek = (stack) => {
+  return stack[stack.length - 1];
+};
+```
+
