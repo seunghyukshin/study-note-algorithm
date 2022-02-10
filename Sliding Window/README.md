@@ -40,3 +40,14 @@ for (int i = 0; i < N; i++) {
 - [LeetCode 862. Shortest Subarray with Sum at Least K](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K)
 - [LeetCode 84. Largest Rectangle in Histogram](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/84.%20Largest%20Rectangle%20in%20Histogram)
 
+
+
+
+
+#### 주의 사항 :no_entry_sign: 
+
+음수가 포함되어있으면 슬라이딩 윈도우를 쓸 수 없다.
+(조건의 일관성이 깨지기 때문에)
+
+##### 관련 문제 : [LeetCode 560. Subarray Sum Equals K](https://github.com/seunghyukshin/study-note-algorithm/tree/master/leetcode/560.%20Subarray%20Sum%20Equals%20K)
+
